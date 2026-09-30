@@ -6,7 +6,7 @@ Los datos provienen de [feriados.cl](https://www.feriados.cl) y están en `holid
 
 ## Requisitos
 
-- Node.js 22.9 o superior (se usa `--env-file-if-exists` para leer el `.env` sin dependencias extra)
+- Node.js 20.12 o superior (se usa `process.loadEnvFile` para leer el `.env` sin dependencias extra)
 
 ## Instalación
 
@@ -36,7 +36,7 @@ Si no existe `.env` o no define `PORT`, la API usa el puerto **3003** por defect
 npm start
 ```
 
-> Nota: `npm start` carga el `.env`. Si ejecutas `node index.js` directamente, el `.env` no se lee y se usa el puerto por defecto.
+También puedes ejecutar `node index.js` directamente; en ambos casos se carga el `.env` si existe.
 
 ## Uso
 

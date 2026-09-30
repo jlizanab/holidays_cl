@@ -1,5 +1,16 @@
+// Nombre del proceso en el sistema operativo (ps, top, htop)
+process.title = 'holidays_cl';
+
+const path = require('path');
 const express = require('express');
 const data = require('./holidayscl.json');
+
+// Carga el .env si existe (process.loadEnvFile requiere Node >= 20.12)
+try {
+  process.loadEnvFile(path.join(__dirname, '.env'));
+} catch (err) {
+  if (err.code !== 'ENOENT') throw err;
+}
 
 const app = express();
 const PORT = process.env.PORT || 3003;
