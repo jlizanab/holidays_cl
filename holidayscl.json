@@ -1,0 +1,677 @@
+{
+  "fuente": "https://www.feriados.cl",
+  "anios": {
+    "2026": {
+      "feriados_generales": [
+        {
+          "fecha": "2026-01-01",
+          "dia": "Jueves, 01 de Enero",
+          "festividad": "Año Nuevo",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-04-03",
+          "dia": "Viernes, 03 de Abril",
+          "festividad": "Viernes Santo",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-04-04",
+          "dia": "Sábado, 04 de Abril",
+          "festividad": "Sábado Santo",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-05-01",
+          "dia": "Viernes, 01 de Mayo",
+          "festividad": "Día Nacional del Trabajo",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Código del Trabajo",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-05-21",
+          "dia": "Jueves, 21 de Mayo",
+          "festividad": "Día de las Glorias Navales",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-06-21",
+          "dia": "Domingo, 21 de Junio",
+          "festividad": "Día Nacional de los Pueblos Indígenas",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 21.357"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-06-29",
+          "dia": "Lunes, 29 de Junio",
+          "festividad": "San Pedro y San Pablo",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 18.432",
+            "Ley 19.668"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-07-16",
+          "dia": "Jueves, 16 de Julio",
+          "festividad": "Día de la Virgen del Carmen",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 20.148"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-08-15",
+          "dia": "Sábado, 15 de Agosto",
+          "festividad": "Asunción de la Virgen",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-09-18",
+          "dia": "Viernes, 18 de Septiembre",
+          "festividad": "Independencia Nacional",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-09-19",
+          "dia": "Sábado, 19 de Septiembre",
+          "festividad": "Día de las Glorias del Ejército",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 20.629"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-10-12",
+          "dia": "Lunes, 12 de Octubre",
+          "festividad": "Encuentro de Dos Mundos",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 3.810",
+            "Ley 19.668"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-10-31",
+          "dia": "Sábado, 31 de Octubre",
+          "festividad": "Día de las Iglesias Evangélicas y Protestantes",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 20.299"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-11-01",
+          "dia": "Domingo, 01 de Noviembre",
+          "festividad": "Día de Todos los Santos",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-12-08",
+          "dia": "Martes, 08 de Diciembre",
+          "festividad": "Inmaculada Concepción",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2026-12-25",
+          "dia": "Viernes, 25 de Diciembre",
+          "festividad": "Navidad",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        }
+      ],
+      "feriados_especificos": [
+        {
+          "fecha": "2026-06-07",
+          "dia": "Domingo, 07 de Junio",
+          "motivo": "Asalto y Toma del Morro de Arica",
+          "beneficiados": "Región de Arica y Parinacota",
+          "respaldo_legal": [
+            "Ley 20.663"
+          ]
+        },
+        {
+          "fecha": "2026-08-20",
+          "dia": "Jueves, 20 de Agosto",
+          "motivo": "Nacimiento del Prócer de la Independencia",
+          "beneficiados": "Comunas de Chillán y Chillán Viejo",
+          "respaldo_legal": [
+            "Ley 16.535",
+            "Ley 20.768"
+          ]
+        }
+      ]
+    },
+    "2027": {
+      "feriados_generales": [
+        {
+          "fecha": "2027-01-01",
+          "dia": "Viernes, 01 de Enero",
+          "festividad": "Año Nuevo",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-03-26",
+          "dia": "Viernes, 26 de Marzo",
+          "festividad": "Viernes Santo",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-03-27",
+          "dia": "Sábado, 27 de Marzo",
+          "festividad": "Sábado Santo",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-05-01",
+          "dia": "Sábado, 01 de Mayo",
+          "festividad": "Día Nacional del Trabajo",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Código del Trabajo",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-05-21",
+          "dia": "Viernes, 21 de Mayo",
+          "festividad": "Día de las Glorias Navales",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-06-21",
+          "dia": "Lunes, 21 de Junio",
+          "festividad": "Día Nacional de los Pueblos Indígenas",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 21.357"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-06-28",
+          "dia": "Lunes, 28 de Junio",
+          "festividad": "San Pedro y San Pablo",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 18.432",
+            "Ley 19.668"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-07-16",
+          "dia": "Viernes, 16 de Julio",
+          "festividad": "Día de la Virgen del Carmen",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 20.148"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-08-15",
+          "dia": "Domingo, 15 de Agosto",
+          "festividad": "Asunción de la Virgen",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-09-17",
+          "dia": "Viernes, 17 de Septiembre",
+          "festividad": "Feriado Adicional Fiestas Patrias",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 20.983"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-09-18",
+          "dia": "Sábado, 18 de Septiembre",
+          "festividad": "Independencia Nacional",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-09-19",
+          "dia": "Domingo, 19 de Septiembre",
+          "festividad": "Día de las Glorias del Ejército",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 20.629"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-10-11",
+          "dia": "Lunes, 11 de Octubre",
+          "festividad": "Encuentro de Dos Mundos",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 3.810",
+            "Ley 19.668"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-10-31",
+          "dia": "Domingo, 31 de Octubre",
+          "festividad": "Día de las Iglesias Evangélicas y Protestantes",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 20.299"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-11-01",
+          "dia": "Lunes, 01 de Noviembre",
+          "festividad": "Día de Todos los Santos",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-12-08",
+          "dia": "Miércoles, 08 de Diciembre",
+          "festividad": "Inmaculada Concepción",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2027-12-25",
+          "dia": "Sábado, 25 de Diciembre",
+          "festividad": "Navidad",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        }
+      ],
+      "feriados_especificos": [
+        {
+          "fecha": "2027-06-07",
+          "dia": "Lunes, 07 de Junio",
+          "motivo": "Asalto y Toma del Morro de Arica",
+          "beneficiados": "Región de Arica y Parinacota",
+          "respaldo_legal": [
+            "Ley 20.663"
+          ]
+        },
+        {
+          "fecha": "2027-08-20",
+          "dia": "Viernes, 20 de Agosto",
+          "motivo": "Nacimiento del Prócer de la Independencia",
+          "beneficiados": "Comunas de Chillán y Chillán Viejo",
+          "respaldo_legal": [
+            "Ley 16.535",
+            "Ley 20.768"
+          ]
+        }
+      ]
+    },
+    "2028": {
+      "feriados_generales": [
+        {
+          "fecha": "2028-01-01",
+          "dia": "Sábado, 01 de Enero",
+          "festividad": "Año Nuevo",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-04-14",
+          "dia": "Viernes, 14 de Abril",
+          "festividad": "Viernes Santo",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-04-15",
+          "dia": "Sábado, 15 de Abril",
+          "festividad": "Sábado Santo",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-05-01",
+          "dia": "Lunes, 01 de Mayo",
+          "festividad": "Día Nacional del Trabajo",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Código del Trabajo",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-05-21",
+          "dia": "Domingo, 21 de Mayo",
+          "festividad": "Día de las Glorias Navales",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-06-20",
+          "dia": "Martes, 20 de Junio",
+          "festividad": "Día Nacional de los Pueblos Indígenas",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 21.357"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-06-26",
+          "dia": "Lunes, 26 de Junio",
+          "festividad": "San Pedro y San Pablo",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 18.432",
+            "Ley 19.668"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-07-09",
+          "dia": "Domingo, 9 de Julio",
+          "festividad": "Elecciones Primarias Gobernadores, Consejeros, Alcaldes y Concejales",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 18.700",
+            "Ley 20.640"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-07-16",
+          "dia": "Domingo, 16 de Julio",
+          "festividad": "Día de la Virgen del Carmen",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 20.148"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-08-15",
+          "dia": "Martes, 15 de Agosto",
+          "festividad": "Asunción de la Virgen",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-09-18",
+          "dia": "Lunes, 18 de Septiembre",
+          "festividad": "Independencia Nacional",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-09-19",
+          "dia": "Martes, 19 de Septiembre",
+          "festividad": "Día de las Glorias del Ejército",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 20.629"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-10-09",
+          "dia": "Lunes, 9 de Octubre",
+          "festividad": "Encuentro de Dos Mundos",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 3.810",
+            "Ley 19.668"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-10-27",
+          "dia": "Viernes, 27 de Octubre",
+          "festividad": "Día de las Iglesias Evangélicas y Protestantes",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 20.299"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-10-29",
+          "dia": "Domingo, 29 de Octubre",
+          "festividad": "Elecciones Gobernadores, Consejeros, Alcaldes y Concejales",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 18.700"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-11-01",
+          "dia": "Miércoles, 01 de Noviembre",
+          "festividad": "Día de Todos los Santos",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-11-26",
+          "dia": "Domingo, 26 de Noviembre",
+          "festividad": "Segunda Vuelta Elecciones Gobernadores",
+          "tipo": "Civil",
+          "respaldo_legal": [
+            "Ley 18.700"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": true
+        },
+        {
+          "fecha": "2028-12-08",
+          "dia": "Viernes, 08 de Diciembre",
+          "festividad": "Inmaculada Concepción",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977"
+          ],
+          "irrenunciable": false,
+          "por_confirmar": false
+        },
+        {
+          "fecha": "2028-12-25",
+          "dia": "Lunes, 25 de Diciembre",
+          "festividad": "Navidad",
+          "tipo": "Religioso",
+          "respaldo_legal": [
+            "Ley 2.977",
+            "Ley 19.973"
+          ],
+          "irrenunciable": true,
+          "por_confirmar": false
+        }
+      ],
+      "feriados_especificos": [
+        {
+          "fecha": "2028-06-07",
+          "dia": "Miércoles, 07 de Junio",
+          "motivo": "Asalto y Toma del Morro de Arica",
+          "beneficiados": "Región de Arica y Parinacota",
+          "respaldo_legal": [
+            "Ley 20.663"
+          ]
+        },
+        {
+          "fecha": "2028-08-20",
+          "dia": "Domingo, 20 de Agosto",
+          "motivo": "Nacimiento del Prócer de la Independencia",
+          "beneficiados": "Comunas de Chillán y Chillán Viejo",
+          "respaldo_legal": [
+            "Ley 16.535",
+            "Ley 20.768"
+          ]
+        }
+      ]
+    }
+  }
+}

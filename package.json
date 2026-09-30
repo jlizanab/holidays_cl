@@ -1,0 +1,12 @@
+{
+  "name": "holidays-cl",
+  "version": "1.0.0",
+  "description": "API para consultar feriados de Chile por fecha",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file-if-exists=.env index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
